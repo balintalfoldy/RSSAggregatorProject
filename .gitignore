@@ -1,0 +1,5 @@
+# Go executable
+RSSAggregatorProject.exe
+
+# Config file
+.env
