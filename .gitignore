@@ -3,3 +3,7 @@ RSSAggregatorProject.exe
 
 # Config file
 .env
+
+pg_data/
+
+vendor/
